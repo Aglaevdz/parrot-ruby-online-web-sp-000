@@ -6,5 +6,5 @@ def parrot(*p)
 end
 
 def parrot("Pretty bird!")
-  puts "Pretty bird!"
+  print "Pretty bird!"
 end
