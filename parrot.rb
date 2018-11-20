@@ -5,6 +5,3 @@ def parrot(*p)
   return "Squawk!"
 end
 
-def parrot("Pretty bird!")
-  print "Pretty bird!"
-end
