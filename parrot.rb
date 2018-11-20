@@ -4,4 +4,3 @@ def parrot(*p)
   puts "Squawk!"
   return "Squawk!"
 end
-
